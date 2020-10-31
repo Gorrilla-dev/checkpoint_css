@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(201, 239, 252);
+    
+  }
+.TopPage {
+    margin: 5px 0px 75px 0px;
+    padding: 25px;
+    background-color: rgb(44, 167, 184); 
+  }
+img {
+    border-radius: 50%;
+    display: inline-block;
+  }
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(102, 102, 102);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: gray;
+}
+h1{
+    
+    display: inline;
+}
+h2{
+    display: block;
+    color: red;
+}
+.order{
+    position: absolute;
+    top: 100px;
+    right: 0;
+    width: 1300px;
+    height: 1400px;
+}
